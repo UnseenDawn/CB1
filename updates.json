@@ -1,0 +1,11 @@
+{
+  "pc": {
+    "sums_url": "Camp_Buddy-1.2-pc.sums", 
+    "version": "8cc6362cfb8818a91368857d455b92e0442fe257915d0acf5283980dfeee1e64", 
+    "zsync_url": "Camp_Buddy-1.2-pc.zsync", 
+    "json_url": "Camp_Buddy-1.2-pc.update.json", 
+    "pretty_version": "1.2", 
+    "sums_size": 126204, 
+    "digest": "b860e6c995bb7ef5aa860768367ce417bb5482cb07467047bf7dece93f6d4116"
+  }
+}
